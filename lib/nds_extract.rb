@@ -21,10 +21,6 @@ def directors_totals(nds)
   
   nil
   
-  #require 'pp'
-  #pp directors_database
-  #puts directors_database
-  
   result = {
   }
   
